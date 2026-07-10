@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="app_title">Art Space Gallery</string>
+
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="button_previous_hint">Go to the previous artwork in the collection</string>
+    <string name="button_next_hint">Go to the next artwork in the collection</string>
+
+    <string name="artwork_author_label">Author: %1$s</string>
+    <string name="artwork_year_label">Year: %1$s</string>
+
+    <string name="art_monalisa_title">Mona Lisa</string>
+    <string name="art_monalisa_author">Leonardo da Vinci</string>
+    <string name="art_monalisa_year">1503</string>
+    <string name="art_monalisa_description">Painting of Mona Lisa by Leonardo da Vinci, a portrait with a subtle smile</string>
+
+    <string name="art_starry_night_title">The Starry Night</string>
+    <string name="art_starry_night_author">Vincent van Gogh</string>
+    <string name="art_starry_night_year">1889</string>
+    <string name="art_starry_night_description">Painting The Starry Night by Vincent van Gogh with swirling blue sky and bright stars</string>
+
+    <string name="art_the_scream_title">The Scream</string>
+    <string name="art_the_scream_author">Edvard Munch</string>
+    <string name="art_the_scream_year">1893</string>
+    <string name="art_the_scream_description">Painting The Scream by Edvard Munch showing a figure with an anguished expression</string>
+
+    <string name="art_pearl_earring_title">Girl with a Pearl Earring</string>
+    <string name="art_pearl_earring_author">Johannes Vermeer</string>
+    <string name="art_pearl_earring_year">1665</string>
+    <string name="art_pearl_earring_description">Painting Girl with a Pearl Earring by Johannes Vermeer, a portrait of a young woman in a blue headscarf</string>
+
+    <string name="art_sunflowers_title">Sunflowers</string>
+    <string name="art_sunflowers_author">Vincent van Gogh</string>
+    <string name="art_sunflowers_year">1888</string>
+    <string name="art_sunflowers_description">Painting Sunflowers by Vincent van Gogh, a vase filled with bright yellow sunflowers</string>
+</resources>

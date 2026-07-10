@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Арт-пространство</string>
+    <string name="app_title">Галерея «Арт-пространство»</string>
+
+    <string name="button_previous">Предыдущий</string>
+    <string name="button_next">Следующий</string>
+    <string name="button_previous_hint">Перейти к предыдущему произведению в коллекции</string>
+    <string name="button_next_hint">Перейти к следующему произведению в коллекции</string>
+
+    <string name="artwork_author_label">Автор: %1$s</string>
+    <string name="artwork_year_label">Год: %1$s</string>
+
+    <string name="art_monalisa_title">Мона Лиза</string>
+    <string name="art_monalisa_author">Леонардо да Винчи</string>
+    <string name="art_monalisa_year">1503</string>
+    <string name="art_monalisa_description">Картина «Мона Лиза» Леонардо да Винчи, портрет с едва заметной улыбкой</string>
+
+    <string name="art_starry_night_title">Звёздная ночь</string>
+    <string name="art_starry_night_author">Винсент ван Гог</string>
+    <string name="art_starry_night_year">1889</string>
+    <string name="art_starry_night_description">Картина «Звёздная ночь» Винсента ван Гога с закручивающимся синим небом и яркими звёздами</string>
+
+    <string name="art_the_scream_title">Крик</string>
+    <string name="art_the_scream_author">Эдвард Мунч</string>
+    <string name="art_the_scream_year">1893</string>
+    <string name="art_the_scream_description">Картина «Крик» Эдварда Мунча с фигурой в мучительном выражении</string>
+
+    <string name="art_pearl_earring_title">Девушка с &#x0436;&#x0435;&#x043C;&#x0447;&#x0443;&#x0436;&#x043D;&#x043E;&#x0439; серёжкой</string>
+    <string name="art_pearl_earring_author">Ян Вермеер</string>
+    <string name="art_pearl_earring_year">1665</string>
+    <string name="art_pearl_earring_description">Картина «Девушка с &#x0436;&#x0435;&#x043C;&#x0447;&#x0443;&#x0436;&#x043D;&#x043E;&#x0439; серёжкой» Яна Вермеера, портрет молодой женщины в синем платке</string>
+
+    <string name="art_sunflowers_title">Подсолнухи</string>
+    <string name="art_sunflowers_author">Винсент ван Гог</string>
+    <string name="art_sunflowers_year">1888</string>
+    <string name="art_sunflowers_description">Картина «Подсолнухи» Винсента ван Гога, ваза с ярко-жёлтыми &#x043F;&#x043E;&#x0434;&#x0441;&#x043E;&#x043B;&#x043D;&#x0443;&#x0445;&#x0430;&#x043C;&#x0438;</string>
+</resources>
